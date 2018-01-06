@@ -1,0 +1,5 @@
+generator 100 1 10 > $
+generator 50 11 30 > $
+generator 30 31 60 > $
+generator 10 61 80 > $
+generator 2 90 100 > $
