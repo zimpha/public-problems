@@ -16,4 +16,4 @@ The first line contains two integers $n$ and $k$ ($1 \le n, k \le 10^{10}$).
 
 ## Output
 
-For test case, output a single line containing $S_k(n) \bmod 2^{64}$.
+For each test case, output a single line containing $S_k(n) \bmod 2^{64}$.
