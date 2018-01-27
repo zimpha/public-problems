@@ -1,0 +1,13 @@
+generate 10 10 5 > $
+generate 100 100 50 > $
+generate 1000 1000 500 > $
+generate 10000 10000 5000 > $
+generate 100000 100000 50000 > $
+generate 1000000 1000000 500000 > $
+generate 1000 5000 132 > $
+generate 100 500 12 > $
+generate 10 50 22 > $
+generate 10000 50000 1352 > $
+generate 100000 500000 13532 > $
+generate 500000 500000 13532 > $
+generate 1000000 1000000 135355 > $
